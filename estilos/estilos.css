@@ -1,0 +1,27 @@
+h1 {
+    background-color: orangered;
+    text-align: center;}
+form {
+    background-color: #045;
+    color:whitesmoke}
+body{
+    background-color: #969;
+    text-align: center;
+}
+.formulario.datos {
+    background-color: lightgreen;
+}
+.formulario.pedido {
+    background-color: lightsalmon;
+}
+.regalo.opcional {
+    background-color: lightseagreen;
+
+}
+.botones.confirmacion {
+    background-color: yellowgreen;
+}
+.pie.de.pagina {
+    background-color: black;
+    color: white;
+}
